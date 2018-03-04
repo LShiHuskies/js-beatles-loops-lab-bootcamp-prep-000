@@ -5,7 +5,6 @@ function theBeatlesPlay (musicians, instruments) {
   }
   return array
 }
-console.log("need to test where this is going to be output");
 function johnLennonFacts (array) {
   var i = 0
   while (array[i]) {
