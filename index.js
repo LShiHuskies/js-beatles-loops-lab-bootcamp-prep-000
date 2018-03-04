@@ -12,6 +12,7 @@ function johnLennonFacts (array) {
    array[i] = array[i].concat("!!!");
     i++;
   }
+  console.log(array);
   return array
 }
 function iLoveTheBeatles(number) {
